@@ -139,10 +139,10 @@ function Validator(formid, option) {
     }
 }
 Validator("#form-sign-in", {
-    replace: "../html/fruits.html",
+    replace: "../html/maylanh.html",
 });
 Validator("#form-log-in", {
-    replace: "../html/fruits.html",
+    replace: "../html/maylanh.html",
 });
 Validator("#form-pay");
 Validator("#form-search");
